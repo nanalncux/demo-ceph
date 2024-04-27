@@ -1,0 +1,7 @@
+{
+  "id": "dev",
+  "private_key": "-----BEGIN OPENSSH PRIVATE KEY-----\nb3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW\nQyNTUxOQAAACD9QQl10Gvj1dYek0/0O56jNVtag9g/xSktnzWVyusrPgAAAKAusEjALrBI\nwAAAAAtzc2gtZWQyNTUxOQAAACD9QQl10Gvj1dYek0/0O56jNVtag9g/xSktnzWVyusrPg\nAAAEDIAb84OHjjcUWu/+FTJ98Brh/APzKdBAVqlvajup2Wj/1BCXXQa+PV1h6TT/Q7nqM1\nW1qD2D/FKS2fNZXK6ys+AAAAFnVzZXJAdXNlci1UaGlua1BhZC1FMTQBAgMEBQYH\n-----END OPENSSH PRIVATE KEY-----\n",
+  "public_key": "ssh-ed25519 AAAAC3NzaC1lZDI1NTE5AAAAIP1BCXXQa+PV1h6TT/Q7nqM1W1qD2D/FKS2fNZXK6ys+",
+  "admin_username": "ceph-admin",
+  "admin_password": "pa$$w0rd"
+}

@@ -1,0 +1,17 @@
+{
+  "name": "ceph-cluster",
+  "description": "",
+  "json_class": "Chef::Role",
+  "default_attributes": {
+  },
+  "chef_type": "role",
+  "run_list": [
+    "recipe[demo-ceph::config]",
+    "recipe[demo-ceph::add_node]",
+    "recipe[demo-ceph::add_labels]",
+    "recipe[demo-ceph::dashboard]"
+  ],
+  "env_run_lists": {
+  }
+}
+
